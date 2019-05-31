@@ -1,2 +1,3 @@
 # runelite-plugins
-Custom runelite plugins I developed
+
+All custom runelite plugins I've developed. Commit description explains each plugins use.
